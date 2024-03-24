@@ -1,6 +1,6 @@
 # Jordan Duan's Projects
 
-Welcome to my GitHub repository! Here's a quick overview of the projects I've worked on:
+Hello friend! I'm Jordan! 🖖 Welcome to my GitHub repository! Here's a quick overview of the projects I've worked on:
 
 ## Projects
 - [Stellar Age Estimation via Machine Learning](https://github.com/jordan-duan/stellar-age-estimation-via-ml)  
@@ -9,10 +9,15 @@ Welcome to my GitHub repository! Here's a quick overview of the projects I've wo
 - [UC Berkeley Course Enrollment Bot](https://github.com/jordan-duan/cal-course-enrollment-bot/)  
   Developed an automatic bot using Python, Selenium, and Google Cloud Console to facilitate enrollment in popular UC Berkeley courses.
 
-- [FIFA Player Rating Predictor](https://github.com/jordan-duan/fifa-player-rating-predictor)  
+- [FIFA Player Rating Predictor](https://github.com/jordan-duan/fifaratingpredictor)  
   Created a machine-learning model using Python, Jupyter Notebook, Pandas, Scikit-learn, Matplotlib, NumPy, and SciPy to predict FIFA23 player ratings.
 
-- [Dungeon Explorer Game](https://github.com/jordan-duan/dungeon-explorer-game)  
+- [Dungeon Explorer Game](https://github.com/jordan-duan/dungeonexplorer)  
   Designed and implemented a 2D game in Java using IntelliJ, StdDraw, Git, and GitHub, incorporating a binary space partitioning world generation algorithm for core game logic.
 
 Feel free to explore these projects in detail and reach out if you have any questions or suggestions! 
+
+## Contact Me
+- Email: jordanduan AT berkeley DOT edu
+- [LinkedIn](https://www.linkedin.com/in/jordan-duan)
+- [GitHub](https://github.com/jordan-duan)
