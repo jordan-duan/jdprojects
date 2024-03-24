@@ -21,7 +21,7 @@ Hello friend! I'm Jordan! 🖖 Welcome to my GitHub repository! Here's a quick o
 - NGrams WordNet Viewer (NGrams/NGordNet)
   Designed and implemented a 2048 game in Java using IntelliJ, StdDraw, Git, and GitHub.
 
-- C(ATS) Auto-correecting Typing Software
+- C(ATS) Auto-correcting Typing Software
 
 - Hog
 
