@@ -15,7 +15,7 @@ Hello friend! I'm Jordan! 🖖 Welcome to my GitHub repository! Here's a quick o
 - [Dungeon Explorer Game](https://github.com/jordan-duan/dungeonexplorer)  
   Designed and implemented a 2D game in Java using IntelliJ, StdDraw, Git, and GitHub, incorporating a binary space partitioning world generation algorithm for core game logic.
 
-- [2048 Game]()  
+- [2048 Game]
   Designed and implemented a 2048 game in Java using IntelliJ, StdDraw, Git, and GitHub.
 
 Feel free to explore these projects in detail and reach out if you have any questions or suggestions! 
